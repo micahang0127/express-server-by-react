@@ -1,6 +1,6 @@
 ### server for react
 
-    express 로 구현 된 react와 연경되는 서버 <br>
+    express 로 구현 된 react와 연결되는 서버
 
 <br><br>
 [추천] - VSC 확장 <br>
